@@ -3,7 +3,9 @@
     "allow": [
       "Bash(/pm:init)",
       "Bash(bash:*)",
-      "Bash(/context:create)"
+      "Bash(/context:create)",
+      "Bash(/pm:prd-parse ai-assistant-note-integration)",
+      "Bash(/pm:epic-decompose ai-assistant-note-integration)"
     ],
     "deny": [],
     "ask": []
