@@ -1,0 +1,14 @@
+.main {
+  flex: 1;
+  padding: 2rem;
+  background-color: #ecf0f1;
+  min-height: calc(100vh - 120px);
+  overflow-y: auto;
+}
+
+@media (max-width: 768px) {
+  .main {
+    padding: 1rem;
+    min-height: calc(100vh - 100px);
+  }
+}

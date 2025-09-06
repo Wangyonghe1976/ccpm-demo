@@ -5,7 +5,17 @@
       "Bash(bash:*)",
       "Bash(/context:create)",
       "Bash(/pm:prd-parse ai-assistant-note-integration)",
-      "Bash(/pm:epic-decompose ai-assistant-note-integration)"
+      "Bash(/pm:epic-decompose ai-assistant-note-integration)",
+      "Bash(npm install)",
+      "Bash(npm run dev)",
+      "Bash(npm run build)",
+      "Bash(npm run lint)",
+      "Bash(npm run type-check)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(gh repo create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tsx:*)"
     ],
     "deny": [],
     "ask": []

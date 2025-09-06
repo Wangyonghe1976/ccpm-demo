@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-06T16:27:24Z
 progress: 0%
 prd: .claude/prds/ai-assistant-note-integration.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/Wangyonghe1976/ccpm-demo/issues/1
 ---
 
 # Epic: AI Assistant Note Integration
