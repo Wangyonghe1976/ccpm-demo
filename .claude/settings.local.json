@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/pm:init)",
+      "Bash(bash:*)",
+      "Bash(/context:create)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
